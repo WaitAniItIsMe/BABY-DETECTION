@@ -1,0 +1,24 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects, #startDetecting
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 6px 6px 20px rgb(0, 0, 0);
+    border-radius: 6px;
+    border-style: dashed;
+    margin-top: 15px;
+}
